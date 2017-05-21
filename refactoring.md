@@ -8,7 +8,7 @@ Refactoring
 
 # Talking about
 
-- **factoring: Third stage of Test-Driven Development (Red, Green, Refactor)**
+- **Refactoring: Third stage of Test-Driven Development (Red, Green, Refactor)**
 - **Refactoring an existing production code**
 
 ---
