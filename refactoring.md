@@ -107,5 +107,19 @@ $ git reset
 - Esforce-se para não tornar a refatoração uma task do seu projeto. Ela deve ser junto de uma task de -implementação. Refatorar precisa de propósito, e;
 ---
 - Red, Green, **Refactor** (TDD) != Refatorar código de produção.
+---
+
+# Recomended books
+
+* Refactoring: Improving the Design of Existing Code
+
+# Online courses
+
+Refactoring
+
+
+* https://sourcemaking.com/refactoring
+
+
 
 
