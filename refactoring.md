@@ -2,7 +2,7 @@ Refactoring
 ===
 
 
-######  by Wagner Rodrigues ( [@vavaRodrigues](https://github.com/vavaRodrigues) )
+######  by Wagner Rodrigues ( [@vavaRodrigues](https://github.com/vavarodrigues) )
 
 ---
 
